@@ -1,0 +1,14 @@
+body {
+    background-image: url("brooklyn.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    margin-left: 10vw;
+    margin-top: 10vh;
+    color: white;
+    font-size: 17vw;
+}

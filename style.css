@@ -7,8 +7,11 @@ body {
 }
 
 h1 {
-    margin-left: 10vw;
-    margin-top: 10vh;
+    margin-left: 0.5em;
+    margin-top: 0.3em;
     color: white;
     font-size: 17vw;
+    font-family: serif;
+    opacity: 0.95;
+    text-shadow: 1px 1px 4px rgb(242, 32, 105);
 }

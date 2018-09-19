@@ -14,5 +14,5 @@ h1 {
     font-size: 17vw;
     font-family: serif;
     opacity: 0.95;
-    text-shadow: 1px 1px 4px rgb(242, 32, 105);
+    text-shadow: 1px 1px 4px rgba(242, 32, 105, 0.434);
 }
